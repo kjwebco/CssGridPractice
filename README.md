@@ -5,7 +5,7 @@ Working with Css Grid
        display:grid;
     }
             
-   .box1{
+.box1{
        grid-row: 1/3;
        grid-column:1/3; 
     }
