@@ -1,4 +1,7 @@
 # CssGridPractice
+
+![cssgrid](https://user-images.githubusercontent.com/24326243/40283928-549d55dc-5c3b-11e8-8334-60c901a1e1d3.jpg)
+
 Working with Css Grid
 ```bash
 .wrapper{
